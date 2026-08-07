@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Estudos 321 teste. estudos 321 teste</h1>;
+  return <h1>Guerra viadinho 321 321 bixa louca</h1>;
 }
 
 export default Home;
